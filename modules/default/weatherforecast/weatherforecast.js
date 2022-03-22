@@ -33,7 +33,7 @@ Module.register("weatherforecast", {
 		retryDelay: 2500,
 
 		apiVersion: "2.5",
-		apiBase: "https://api.openweathermap.org/data/",
+		apiBase: "https://www.accuweather.com/en/in/bengaluru/204108/weather-forecast/204108",
 		forecastEndpoint: "forecast/daily",
 		excludes: false,
 
