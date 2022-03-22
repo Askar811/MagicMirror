@@ -84,7 +84,7 @@ let config = {
 			config: {
 				weatherProvider: "openweathermap",
 				type: "forecast",
-				location: "India",
+				location: "Bangalore,India",
 				locationID: "1277333", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				apiKey: "9f003e6a6f46956f155f385f1643195e"
 			}
