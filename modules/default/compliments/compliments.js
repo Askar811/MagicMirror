@@ -3,7 +3,7 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there, have a healthy day!","Drink water, stay hydrated !","Exercise prevents the signs of ageing"]
+			anytime: ["Hey there, have a healthy day!","Drink water, stay hydrated !","Exercise prevents the signs of ageing"],
 			morning: ["Good morning!", "Eat a healthy diet!", "How was your sleep?"],
 			afternoon: ["Drink water, stay hydrated !", "Laughing is good for your heart!", "Check your health records regularly!"],
 			evening: ["Exercise prevents the signs of ageing", "Always look on the bright side :being an optimist can help you live longer!"],
