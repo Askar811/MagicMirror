@@ -49,6 +49,10 @@ let config = {
 			module: "clock",
 			position: "top_left"
 		},
+    {
+      module: "MMM-COVID19"
+      position: "top_left"
+    },
 		{
 			module: "compliments",
 			position: "lower_third"
