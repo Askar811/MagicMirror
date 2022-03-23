@@ -90,7 +90,7 @@ let config = {
       lastUpdateInfo: true,
       countries: [ "Argentina", "China", "Italy", "Spain" ],
       headerRowClass: "small",
-      rapidapiKey : "01d6665ba777fdb4117cdmshc742d5373fae8f1cp148639jsn1" // this is an example, do not try to use it for real
+      rapidapiKey : "9f003e6a6f46956f155f385f1643195e" 
     }
   },
 	]
