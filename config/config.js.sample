@@ -80,19 +80,7 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
-    {
-    module: "MMM-COVID19",
-    position: "top_left",
-    config: {
-      updateInterval: 300000,
-      worldStats: true,
-      delta: true,
-      lastUpdateInfo: true,
-      countries: [ "Argentina", "China", "Italy", "Spain" ],
-      headerRowClass: "small",
-      rapidapiKey : "9f003e6a6f46956f155f385f1643195e" 
-    }
-  },
+    
 	]
 };
 
