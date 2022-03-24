@@ -81,14 +81,7 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
-     {
-  module: "MMM-Face-Recognition-SMAI",
-  position: "top_right",
-  config: {
-    
-  }
-},
-    
+  
 	]
 };
 
