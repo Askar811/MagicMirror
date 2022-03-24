@@ -45,13 +45,7 @@ let config = {
 			module: "updatenotification",
 			position: "top_bar"
 		},
-    {
-  module: "MMM-Face-Recognition-SMAI",
-  position: "top_right",
-  config: {
-    //prompt: "Put in your own text"
-  }
-},
+   
 		{
 			module: "clock",
 			position: "top_left"
@@ -87,6 +81,13 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
+     {
+  module: "MMM-Face-Recognition-SMAI",
+  position: "top_right",
+  config: {
+    
+  }
+},
     
 	]
 };
